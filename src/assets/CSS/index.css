@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* 用淘宝布局计算rem的值用的函数 */
+header {
+  width: 100%;
+  background-color: pink;
+}
+header div.search {
+  display: flex;
+  align-items: center;
+}
+header div.search a {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=index.css.map */
